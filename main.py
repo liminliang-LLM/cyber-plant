@@ -164,16 +164,16 @@ while True:
         show_face("silly")
         music.play(music.BA_DING, pin=pin0)
         np.fill((20,20,0))
-        sleep(2000)
         np.show()
+        sleep(2000)
         
     # Button A gives a happy response
     elif button_a.was_pressed():
         show_face("happy")
         music.play(music.ENTERTAINER, pin=pin0)
         np.fill((0,20,0))
-        sleep(2000)
         np.show()
+        sleep(2000)
         
     # Button B gives a sad response
     elif button_b.was_pressed():
@@ -181,8 +181,8 @@ while True:
         if is_dry and not was_dry:
             music.play(music.POWER_DOWN, pin=pin0)
         np.fill((0,0,20))
-        sleep(2000)
         np.show()
+        sleep(2000)
         
     # Automatically enter the sad state when the soil is dry.        
     elif is_dry:
