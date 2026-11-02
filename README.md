@@ -4,6 +4,8 @@ Cyber Plant is an interactive physical-computing prototype created with a BBC mi
 
 The project gives a plant a simple digital personality. It reads the soil moisture level and responds using facial expressions, coloured lights and sound.
 
+<img width="1072" height="1430" alt="cf7dacdf9a1380d50d1b59386ff96230" src="https://github.com/user-attachments/assets/2b049623-1470-4d44-9291-42edf58c590d" />
+
 ## What it does
 
 A soil moisture sensor is inserted into the plant pot and connected to a BBC Micro:bit V2.
@@ -15,12 +17,26 @@ The Micro:bit buttons can also trigger different expressions, when press button 
 ## Hardware
 
 - BBC micro:bit V2
+<img width="4000" height="3000" alt="84063d9626d950ca83b6950c5bc6f2da" src="https://github.com/user-attachments/assets/dc4a3368-4321-4609-a423-11caef562b86" />
+
 - Micro:bit breakout board
+<img width="1706" height="1280" alt="90285584e3e7f3ba2f6134071d052972" src="https://github.com/user-attachments/assets/753815e1-9f77-40fb-8f10-d8cb6c5593d1" />
+
 - Soil moisture sensor
+<img width="1706" height="1280" alt="049ecdbeeef625b1af4ea8f36e0c85a5" src="https://github.com/user-attachments/assets/5e3c0db7-bbd6-4a1c-9883-acb796c697d3" />
+
 - 1.3-inch SH1106 SPI OLED
+<img width="1706" height="1280" alt="fd8216ca3b43d70b6f07b039f1db98b7" src="https://github.com/user-attachments/assets/2b88fffb-d47a-4e11-836a-ea35c023886b" />
+
 - 12-pixel NeoPixel ring
+<img width="1706" height="1280" alt="fc1b82613d6c19e0bfb988e7597db5e5" src="https://github.com/user-attachments/assets/e255eda0-28d8-4636-bf43-f81bce9c2408" />
+
 - Breadboard
+<img width="4000" height="3000" alt="c659c336ccbcd084f6f1c95e549eef9a" src="https://github.com/user-attachments/assets/4b7c8c8d-f394-45b6-a538-3c3c61de0143" />
+
 - Jumper wires
+<img width="1706" height="1280" alt="cf359b526566c7f9f58c03e1a376e599" src="https://github.com/user-attachments/assets/8f11c8dc-05bb-4254-9507-a28afae8866e" />
+
 
 ## Connections
 
